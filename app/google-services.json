@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "844284405945",
+    "firebase_url": "https://tourismguide-4235c.firebaseio.com",
+    "project_id": "tourismguide-4235c",
+    "storage_bucket": "tourismguide-4235c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844284405945:android:40f92413ebdc9278",
+        "android_client_info": {
+          "package_name": "com.example.ahmedabomazin.tourismguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844284405945-4ta2t0oqvgnvq1o041i0u7n2vsh95f9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHRDMs5kW_7X0elYYt2VdGBHlQDUMXyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
